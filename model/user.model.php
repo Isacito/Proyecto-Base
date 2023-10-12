@@ -2,11 +2,11 @@
 
 class User
 {
-    public int $id;
-    public string $name;
-    public string $email;
-    public string $gender_id;
-    public string  $password;
+    public int $Id;
+    public string $Name;
+    public string $UserName;
+    public string $Email;
+    public string  $Password;
 }
 
 
